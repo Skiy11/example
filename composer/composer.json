@@ -1,0 +1,9 @@
+{
+    "name": "phpstudent/composer",
+    "require": {
+        "squizlabs/php_codesniffer": "*"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "psr/application/"}
+    }
+}
